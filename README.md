@@ -1,2 +1,2 @@
 # EasierMocap
-EasyMocap made even more easy!
+EasyMocap made even easier!
