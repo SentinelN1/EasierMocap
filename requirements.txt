@@ -7,3 +7,4 @@ RangeSlider~=2021.7.4
 Pillow~=9.5.0
 pygrabber~=0.2
 PyQt5~=5.15.10
+pysftp~=0.2.9
